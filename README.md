@@ -1,16 +1,14 @@
-### Hi there 👋
+# Charles Evaristo Pimenta da Silva
 
-<!--
-**everestp8/everestp8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Estudante de TI no Instituto Federal de Alagoas
++ Interessado em desenvolvimento back-end  
 
-Here are some ideas to get you started:
+## Skills 🔥
+<div class="icon-list">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,c,js,html,css,godot" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning 🧠
+<div class="icon-list">
+    <img src="https://skillicons.dev/icons?i=go,java,mysql,neovim" />
+</div>
